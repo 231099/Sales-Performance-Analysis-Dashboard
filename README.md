@@ -36,4 +36,4 @@ Line Charts to represent the variation of revenue across the years starting from
 Interactivity: Integrated Slicers (Age-Group) to allow users to filter the entire dashboard dynamically.
 </p>
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/Dashboard.png)
